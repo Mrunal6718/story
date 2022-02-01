@@ -1,0 +1,69 @@
+h1{
+    color:black;
+}
+
+
+.header{
+    background-color:#77878B;
+    font-size:25px;
+    font: arial;
+    padding:25px;	
+    width: 1410px;
+    margin: 25px;
+    display:flex;
+    justify-content:center;
+}
+
+
+
+.grid{
+    background-color:#DAA781;
+    padding:20px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.section {
+    background-image: url("fantasybackground.jpg");
+       }
+
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+
+a:link{
+    color:#DAA781;
+}
+
+
+.origame{
+    border-radius:20px;
+    background-color: #311515;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:fantasy;
+}
+
+
+
+body{
+    margin: 5px;
+    margin-right: 5px;
+    background-color: #DAA781;
+}
+
+.origami:hover p{
+    opacity: 1;
+}
+
+
